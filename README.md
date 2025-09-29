@@ -1,6 +1,8 @@
 # 👋 Hello, I’m @adiputera
-- I'm **Java & SAP Hybris Commerce** Lead Software Engineer at Astra
+- I'm **Java & SAP Hybris Commerce** Lead Software Engineer
 - Java, SAP Hybris Commerce, Spring Boot, Spring MVC Framework are my specialties
+- Recently, I've been involved in the implementation of SAP Customer Data Platform (SAP CDP) and SAP Emarsys
+- Also know Kafka, Azure Functions, Node.js, Drools
 - You can reach me on my [LinkedIn](https://www.linkedin.com/in/yusuf-adiputera/) page
 - You can also check my [resume](https://adiputera.github.io) page
 
