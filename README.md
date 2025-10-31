@@ -4,7 +4,8 @@
 - Recently, I've been involved in the implementation of SAP Customer Data Platform (SAP CDP) and SAP Emarsys
 - Also know Kafka, Azure Functions, Node.js, Drools
 - You can reach me on my [LinkedIn](https://www.linkedin.com/in/yusuf-adiputera/) page
-- You can also check my [resume](https://adiputera.github.io) page
+- You can also check my [resume-English](https://adiputera.github.io) page, or in [Indonesian](https://adiputera.github.io/id).
+- You can also check my [FAQs in English](https://adiputera.github.io/faq) or [FAQs in Indonesian](https://adiputera.github.io/faq-id)
 
 <!---
 adiputera/adiputera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
