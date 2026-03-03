@@ -1,4 +1,4 @@
-# 👋 Hello, I’m @adiputera
+# 👋 Hello, I’m Yusuf Adiputera
 - I'm **Java, Spring (Boot & MVC), & SAP Hybris Commerce** Lead Software Engineer
 - I have more than 8 years of professional experience
 - Java, SAP Hybris Commerce, Spring Boot, Spring MVC Framework are my specialties
