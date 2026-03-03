@@ -1,5 +1,6 @@
 # 👋 Hello, I’m @adiputera
 - I'm **Java, Spring (Boot & MVC), & SAP Hybris Commerce** Lead Software Engineer
+- I have more than 8 years of professional experience
 - Java, SAP Hybris Commerce, Spring Boot, Spring MVC Framework are my specialties
 - Recently, I've been involved in the implementation of SAP Customer Data Platform (SAP CDP) and SAP Emarsys
 - Recently, I also expanded to SAP S/4HANA ABAP
